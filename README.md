@@ -1,3 +1,5 @@
 # Neuro Ensemble
 
-`pip install . --upgrade`
+```shell
+pip3 install git+https://github.com/maxkost/NeuroEnsemble@main
+```
