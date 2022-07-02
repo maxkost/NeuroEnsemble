@@ -8,6 +8,6 @@ setup(
         "numpy",
         "matplotlib",
         "joblib",
-        "ensemble @ git+https://github.com/Anessivan/Neuro@master",
+        "ensemble @ git+https://github.com/Anessivan/Neuro@anessivan/coupling_normalization",
     ],
 )
